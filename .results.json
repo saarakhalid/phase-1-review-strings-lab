@@ -5,29 +5,29 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-21T08:40:10.677Z",
-    "end": "2023-12-21T08:40:11.616Z",
-    "duration": 939
+    "start": "2024-01-18T08:20:58.969Z",
+    "end": "2024-01-18T08:21:01.325Z",
+    "duration": 2356
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 1,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,21 +55,21 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,21 +87,21 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 1,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the value of the 'currentUser' variable",
       "fullTitle": "index.js welcomeMessage contains the value of the 'currentUser' variable",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,21 +129,21 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains the first initial of the name stored in the 'currentUser' variable",
       "fullTitle": "index.js shortGreeting contains the first initial of the name stored in the 'currentUser' variable",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
